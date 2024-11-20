@@ -1,14 +1,14 @@
 [
   {
-    "name":"server-1",
-    "link":"10.10.10.2:30120"
+    "name": "server-1",
+    "link": "10.10.10.2:30120"
   },
   {
-    "name":"server-2",
-    "link":"localhost"
+    "name": "server-2",
+    "link": "localhost"
   },
   {
-    "name":"server-3",
-    "link":"l38epj"
+    "name": "server-3",
+    "link": "l38epj"
   }
 ]
