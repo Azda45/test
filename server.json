@@ -14,5 +14,21 @@
   {
     "name": "server-4",
     "link": "l38epj"
+  },
+  {
+    "name": "server-5",
+    "link": "10.10.10.2:30120"
+  },
+  {
+    "name": "server-6",
+    "link": "localhost"
+  },
+  {
+    "name": "server-7",
+    "link": "l38epj"
+  },
+  {
+    "name": "server-8",
+    "link": "l38epj"
   }
 ]
